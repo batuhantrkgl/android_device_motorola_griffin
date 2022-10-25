@@ -1,4 +1,4 @@
-## TWRP device tree for Moto Z
+## OrangeFox device tree for Moto Z
 =====================================
 Device: Moto Z
 
@@ -20,7 +20,7 @@ Battery | Li-Ion 2600mAh battery
 Display | 1440 x 2560 pixels (~535 ppi pixel density)
 Camera  | 13 MP, f/1.8, laser autofocus, OIS, dual-LED (dual tone) flash
 
-NOTE: This tree is compatible with omni 7.1 tree.
+NOTE: This tree is compatible with android-7.1 tree.
 
 ### Kernel source
 
