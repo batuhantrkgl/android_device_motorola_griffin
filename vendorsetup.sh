@@ -1,1 +1,2 @@
 add_lunch_combo omni_griffin-eng
+export OF_FORCE_PREBUILT_KERNEL=1
