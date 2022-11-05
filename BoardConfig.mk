@@ -101,3 +101,19 @@ TARGET_KEYMASTER_WAIT_FOR_QSEE := true
 
 # Remove mouse pointer
 TW_INPUT_BLACKLIST := "hbtp_vm"
+
+
+# Partitions
+BOARD_RECOVERYIMAGE_PARTITION_SIZE := 39845888
+#### it not needed at right now ####
+#### thats from j7y17lte so dont use it ####
+#BOARD_BOOTIMAGE_PARTITION_SIZE := 33554432
+#BOARD_CACHEIMAGE_PARTITION_SIZE := 67108864
+#BOARD_VENDORIMAGE_PARTITION_SIZE := 536870912
+#BOARD_SYSTEMIMAGE_PARTITION_SIZE := 4294967296
+
+############################
+######## PBRP FLAGS ########
+############################
+
+PB_TORCH_PATH := /sys/class/leds/flashlight
